@@ -1,7 +1,7 @@
 # odin-recipes
 
 This is my HTML project from TOP(The Odin Project). The project is about
-making a basic website with different recipes. The skills that will be demonstrated throughout this project will be basic git integration, using different HTML elements (which will be listed below), and HTML file structures.
+making a basic website with different recipes. The skilli that will be demonstrated throughout this project will be basic git integration, using different HTML elements (which will be listed below), and HTML file structures.
 
 HTML ELEMENTS
     <p> paragraph tags
