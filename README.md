@@ -5,16 +5,15 @@ making a basic website with different recipes. The skilli that will be demonstra
 
 HTML ELEMENTS
     <ul>
-        <li><p> paragraph tags</li>
-        <li><h1> heading tags (Up to 6)</li>
-        <li><ul> unordered lists</li>
-        <li><ol> ordered list</li>
-        <li><img> image tags</li>
-        <li><a> hyperlink tags</li>
-        <li><strong> bold tag</li>
-        <li><em> italic tag</li>
+        <li>paragraph tags</li>
+        <li>heading tags (Up to 6)</li>
+        <li>unordered lists</li>
+        <li>ordered list</li>
+        <li>image tags</li>
+        <li>hyperlink tags</li>
+        <li>bold tag</li>
+        <li>italic tag</li>
     </ul>
-
 Git Commands
 <ul>
     <li>$ git status = shows status of file, if file is stage, not staged, or if   
@@ -23,6 +22,5 @@ Git Commands
     <li>$ git commit -m <"file.name"> = saves file that have been changed.</li>
     <li>$ git log = shows author, date, and time when commit was made</li>
 </ul>
-
-
+<p></p>
 Disclaimer: I do not own any of the recipes or images that will be used in this project. The recipes and images will be searched using google.
