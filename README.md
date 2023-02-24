@@ -4,14 +4,16 @@ This is my HTML project from TOP(The Odin Project). The project is about
 making a basic website with different recipes. The skilli that will be demonstrated throughout this project will be basic git integration, using different HTML elements (which will be listed below), and HTML file structures.
 
 HTML ELEMENTS
-    <p> paragraph tags
-    <h1> - <h6> heading tags
-    <ul> unordered lists
-    <ol> ordered list
-    <img> image tags
-    <a> hyperlink tags
-    <strong> bold tag
-    <em> italic tag
+    <ul>
+    <li><p> paragraph tags</li>
+    <li><h1> - <h6> heading tags</li>
+    <li><ul> unordered lists</li>
+    <li><ol> ordered list</li>
+    <li><img> image tags</li>
+    <li><a> hyperlink tags</li>
+    <li><strong> bold tag</li>
+    <li><em> italic tag</li>
+    </ul>
 
 Git Commands
 $ git status = shows status of file, if file is stage, not staged, or if   
