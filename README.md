@@ -22,5 +22,5 @@ Git Commands
     <li>$ git commit -m <"file.name"> = saves file that have been changed.</li>
     <li>$ git log = shows author, date, and time when commit was made</li>
 </ul>
-<p></p>
+
 Disclaimer: I do not own any of the recipes or images that will be used in this project. The recipes and images will be searched using google.
